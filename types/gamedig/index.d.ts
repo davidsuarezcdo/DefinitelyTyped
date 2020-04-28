@@ -253,6 +253,7 @@ export interface Player {
     score?: number;
     team?: string;
     address?: string;
+    time?: string;
 }
 
 export interface QueryOptions {
